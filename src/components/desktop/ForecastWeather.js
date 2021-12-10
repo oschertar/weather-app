@@ -6,6 +6,8 @@ export default function ForecastWeather({ daily }) {
     
     console.log(daily);
 
+
+
     
     return (
         <div className="mt-4 text-white">
