@@ -1,5 +1,6 @@
 
 import './App.css';
+import './styles/output.css'
 import './assets/fonts.css';
 import Main from './pages/Main';
 import MainDesktop from './pages/MainDesktop';
